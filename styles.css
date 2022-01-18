@@ -1,0 +1,32 @@
+
+body {    
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+}
+h1 {
+    color: #276678;
+    font-family: 'Sacramento', cursive;
+    font-size: 550%;
+    margin: auto;
+    font-weight: 100;
+}
+h4 {
+    color: #276678;
+    size: 5px;
+    margin: 0px;
+    position: relative; left: 200px;
+}
+.top-container {
+    background-color: #D3E0EA;
+    height: 500px;
+    width: 100%;
+    padding: 200px;
+}
+.about-me {
+    height: 200px;
+    width: 200px;
+}
+.reach-out {
+    height: 200px;
+    width: 200px;
+}
