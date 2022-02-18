@@ -11,6 +11,7 @@ h1 {
     font-size: 550%;
     margin: auto;
     font-weight: 100;
+    padding: 200px 0px 0px 0px;
 }
 h2 {
     color: #276678;
@@ -34,9 +35,9 @@ hr {
 
 .top-container {
     background-color: #D3E0EA;
-    height: 400px;
-    width: 79%;
-    padding: 200px;
+    height: 700px;
+    width: auto;
+    padding: 20px;
 }
 .about-me {
     height: 2000px;
@@ -91,7 +92,7 @@ hr {
     font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
-    margin: 100px
+    margin: 1px
   }
   
   .btn:hover {
